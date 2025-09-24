@@ -30,8 +30,7 @@ This project focuses on **understanding customer needs** through data science an
 | 3. | Feature Selection |
 | 4. | K-Means Clustering and PCA |
 | 5. | Hierarchical Clustering |
-| 6. | Advanced Clustering |
-| 7. | Key Learnings / Takeaways |
+| 6. | Key Learnings / Takeaways |
 
 ---
 
