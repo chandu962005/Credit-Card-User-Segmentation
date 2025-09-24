@@ -124,13 +124,7 @@ Created new features to capture customer behavior:
 
 ---
 
-## 6. Advanced Clustering
-
-- Applied techniques like **DBSCAN** and **Gaussian Mixture Models (GMM)** for comparison.  
-
----
-
-## 7. Key Learnings / Takeaways
+## 6. Key Learnings / Takeaways
 
 - **PCA** improved clustering by reducing noise and redundancy.  
 - **Silhouette Score** was key for evaluating natural separation of clusters.  
